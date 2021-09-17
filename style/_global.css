@@ -1,0 +1,17 @@
+.button{
+    border: 1px solid #4840BB;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4840BB;
+    padding: 12px 20px;
+    background-color: #e5e5e5;
+    text-decoration: none;
+}
+.purple{
+    background: #4840BB;
+    color: #FFFFFF;
+    /* display: inline-block; */
+}
